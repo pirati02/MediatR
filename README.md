@@ -8,3 +8,5 @@
             {
                 Text = "Hello Bakar"
             });
+
+path to [Program.cs](https://github.com/pirati02/MediatR/blob/master/Sample/Program.cs) file
